@@ -8,6 +8,8 @@ Sharing an individual's academic qualification's bolg.
 [简书](https://www.jianshu.com/u/cd526d548893)
 ## 掘金
 [掘金](https://juejin.im/user/5a3c61055188256970782b48)
+## 知乎
+[知乎](https://www.zhihu.com/people/zhou-bing-19-17/activities)
 ## SegmentFault
 [SegmentFault](https://segmentfault.com/u/bleaknight)
 ## StackOverflow
