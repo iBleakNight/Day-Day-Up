@@ -15,4 +15,6 @@ Sharing an individual's academic qualification's bolg.
 ## StackOverflow
 [StackOverflow](https://stackoverflow.com/users/11252598/bleaknight)
 ## 个人网站
-[个人网站](http://www.bleaknight.top)
+- [个人网站](http://www.bleaknight.top)
+- [个人博客](http://bleaknight.mystrikingly.com/)
+- [Demo](http://studio.bleaknight.top/)
