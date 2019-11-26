@@ -1,6 +1,6 @@
 # Day-Day-Up
 Sharing an individual's academic qualification's bolg.
-## GitHUb
+## GitHub
 [GitHub](https://github.com/iBleakNight)
 ## 码云
 [码云](https://gitee.com/BleakNight)
@@ -17,4 +17,5 @@ Sharing an individual's academic qualification's bolg.
 ## 个人网站
 - [个人网站](http://www.bleaknight.top)
 - [个人博客](http://bleaknight.mystrikingly.com/)
-- [Demo](http://studio.bleaknight.top/)
+- [GitHub建站](http://zb.bleaknight.top/)
+
